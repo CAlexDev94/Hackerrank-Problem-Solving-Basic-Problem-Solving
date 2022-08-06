@@ -1,2 +1,2 @@
-# Hackerrank-Problem-Solving-Basic-Problem-Solving
+# Hackerrank-Problem Solving Basic
 Hackerrank Resolved Programming Issues
